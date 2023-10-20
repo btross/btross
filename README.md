@@ -8,7 +8,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [ACtive Directory Homelab review](https://www.youtube.com/LAB_URL)
+- [Active Directory Homelab review](https://www.youtube.com/LAB_URL)
 
 <h2> 🤳 Connect with me:</h2>
 
